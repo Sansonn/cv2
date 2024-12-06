@@ -12,7 +12,12 @@ body {
 header p {
     color: rgb(255, 255, 255);
 }
-  
+
+nav {
+  background-image: linear-gradient(to right top, #1c5ec2, #005c97, #004c56, #003723, #1a210b);
+}
+
+
   /* Hero Section */
   
   #Hero-Section {
